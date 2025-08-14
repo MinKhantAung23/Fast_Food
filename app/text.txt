@@ -1,0 +1,6 @@
+red #CF3B0D
+yellow #EA920D
+green #083E36
+orange #B84C08
+bg #F4F4F4
+card #FEFEFE
